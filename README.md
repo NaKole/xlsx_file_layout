@@ -1,5 +1,5 @@
 # Packege for reservation Jara Cimrman theathre tickets
-
+'''
 usage: djc [-h] -p PATHS -cp CALIBRATION_PATH -r ROW -rt RUN_TIME [-t]
 
 Cimrman tickets
@@ -14,3 +14,4 @@ options:
   -rt RUN_TIME, --run_time RUN_TIME
                         DD-MM-YYYY HH:MM:SS
   -t, --testing         run test clicking before α run
+'''
